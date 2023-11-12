@@ -1,10 +1,12 @@
 Privacy Policy
+
     MyDrik built the Color Notes app as a Commercial app. This application is provided by MyDrik and is intended for use as is.
     This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
     If you choose to use my Service, then you agree to the informations in this policy. 
 
 
 Information Collection and Use
+
     None information are collected by our application or me in any way.
     I will not use or share your information with anyone, as part no information are collected by me.
     The app does use third-party services that may collect information used to identify you.
@@ -14,15 +16,18 @@ Information Collection and Use
     
 
 Log Data
+
     I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 
 Cookies
+
     Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
     This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve services. 
 
 
 Service Providers
+
     I may employ third-party companies and individuals due to the following reasons:
 
         To facilitate our Service;
